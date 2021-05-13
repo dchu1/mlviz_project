@@ -1,6 +1,9 @@
 # Understanding Aesthatic Image Classification
--David Chu(dfc296@nyu.edu)
--Varun Dhuldhoya(vyd208@nyu.edu)
+
+David Chu(dfc296@nyu.edu)
+
+Varun Dhuldhoya(vyd208@nyu.edu)
+
 ## Intro
 
 The goal of this project is to utilize class activation maps (specifically GradCAM), to better understand the spatial aesthetics as the
