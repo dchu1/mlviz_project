@@ -12,7 +12,7 @@ classifier understands them. Furthermore we explore potential uses of these acti
 
 ## Contents
 
-- `report.pdf` is our written report
+- `Project_report.pdf` is our written report
 - `MobileNetV2.py` contains code for implementation of Aesthatic Classification using a modified MobileNetV2 network.
 - `VGG16.py` contains code for implementation of Aesthatic Classification using a modified MobileNetV2 network.
 
