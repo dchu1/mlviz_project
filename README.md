@@ -1,4 +1,4 @@
-# Understanding Aesthatic Image Classification
+# Understanding Aesthetic Image Classification
 
 David Chu(dfc296@nyu.edu)
 
@@ -7,8 +7,7 @@ Varun Dhuldhoya(vyd208@nyu.edu)
 ## Intro
 
 The goal of this project is to utilize class activation maps (specifically GradCAM), to better understand the spatial aesthetics as the
-classifier understands them. Furthermore we explore potential uses of these activation maps for cropping
-## Structure
+classifier understands them. Furthermore we explore potential uses of these activation maps for image cropping.
 
 
 ## Contents
